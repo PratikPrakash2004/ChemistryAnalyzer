@@ -1,8 +1,8 @@
-# ChemEquipViz - Chemical Equipment Parameter Visualizer
+#ChemEqualizer
 
 ## 📋 Project Overview
 
-ChemEquipViz is a hybrid web and desktop application for visualizing chemical equipment parameters. It allows users to upload CSV files containing equipment data, view summary statistics, and generate visual charts for data analysis.
+ChemEqualizer is a hybrid web and desktop application for visualizing chemical equipment parameters. It allows users to upload CSV files containing equipment data, view summary statistics, and generate visual charts for data analysis.
 
 
 ## 🛠️ Tech Stack
@@ -163,7 +163,7 @@ Valve-1,Valve,80.3,12.1,75
 
 ## 👤 Author
 
-Renish Aryan   
-renisharyan2000@gmail.com
+Pratik Prakash
+Pratik17432@gmail.com
 
 ---
